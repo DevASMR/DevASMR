@@ -2,7 +2,7 @@
 
 <h1 align="center">Aligned To Center</h1>
 <h2 align="left">Aligned To left</h2>
-<h3 align="center">Aligned To right</h3>
+<h3 align="right">Aligned To right</h3>
 ## Hi there 👋
 ###### Im Reza.
 
