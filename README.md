@@ -3,8 +3,9 @@
 <h1 align="center">Aligned To Center</h1>
 <h2 align="left">Aligned To left</h2>
 <h3 align="right">Aligned To right</h3>
-## Hi there 👋
-###### Im Reza.
+
+<p>Hi There 👋, Im Reza!</p>
+<hr>
 
 
 <!--
